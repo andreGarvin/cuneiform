@@ -1,0 +1,15 @@
+{
+  "name": "cuneiform",
+  "version": "0.0.1",
+  "description": "This is a logging module to sendin log messages to firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Garvin",
+  "license": "MIT",
+  "dependencies": {
+    "asmany": "^0.1.0",
+    "firebase": "^5.0.1"
+  }
+}
