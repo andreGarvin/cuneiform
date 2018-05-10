@@ -1,11 +1,8 @@
 {
-  "name": "cuneiform",
+  "name": "@andre_garvin/cuneiform",
   "version": "0.0.1",
-  "description": "This is a logging module to sendin log messages to firebase",
+  "description": "This is a logging module for sending log messages to firebase",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Andre Garvin",
   "license": "MIT",
   "dependencies": {
